@@ -2,13 +2,6 @@ package com.charspan.gittest;
 
 public class GitMain {
 
-	/**
-	 * 计算两个整数之和
-	 * 
-	 * @param num1
-	 * @param num2
-	 * @return
-	 */
 	public static int getSum(int num1, int num2) {
 		
 		int res;
